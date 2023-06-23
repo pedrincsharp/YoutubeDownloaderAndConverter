@@ -1,0 +1,17 @@
+C:\Users\SmarTI\source\repos\YoutubeDownloaderAndConverter\YoutubeDownloaderAndConverter\bin\Release\netcoreapp3.1\YoutubeDownloaderAndConverter.exe
+C:\Users\SmarTI\source\repos\YoutubeDownloaderAndConverter\YoutubeDownloaderAndConverter\bin\Release\netcoreapp3.1\YoutubeDownloaderAndConverter.deps.json
+C:\Users\SmarTI\source\repos\YoutubeDownloaderAndConverter\YoutubeDownloaderAndConverter\bin\Release\netcoreapp3.1\YoutubeDownloaderAndConverter.runtimeconfig.json
+C:\Users\SmarTI\source\repos\YoutubeDownloaderAndConverter\YoutubeDownloaderAndConverter\bin\Release\netcoreapp3.1\YoutubeDownloaderAndConverter.runtimeconfig.dev.json
+C:\Users\SmarTI\source\repos\YoutubeDownloaderAndConverter\YoutubeDownloaderAndConverter\bin\Release\netcoreapp3.1\YoutubeDownloaderAndConverter.dll
+C:\Users\SmarTI\source\repos\YoutubeDownloaderAndConverter\YoutubeDownloaderAndConverter\bin\Release\netcoreapp3.1\YoutubeDownloaderAndConverter.pdb
+C:\Users\SmarTI\source\repos\YoutubeDownloaderAndConverter\YoutubeDownloaderAndConverter\bin\Release\netcoreapp3.1\AngleSharp.dll
+C:\Users\SmarTI\source\repos\YoutubeDownloaderAndConverter\YoutubeDownloaderAndConverter\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SmarTI\source\repos\YoutubeDownloaderAndConverter\YoutubeDownloaderAndConverter\bin\Release\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\SmarTI\source\repos\YoutubeDownloaderAndConverter\YoutubeDownloaderAndConverter\bin\Release\netcoreapp3.1\YoutubeExplode.dll
+C:\Users\SmarTI\source\repos\YoutubeDownloaderAndConverter\YoutubeDownloaderAndConverter\obj\Release\netcoreapp3.1\YoutubeDownloaderAndConverter.AssemblyInfoInputs.cache
+C:\Users\SmarTI\source\repos\YoutubeDownloaderAndConverter\YoutubeDownloaderAndConverter\obj\Release\netcoreapp3.1\YoutubeDownloaderAndConverter.AssemblyInfo.cs
+C:\Users\SmarTI\source\repos\YoutubeDownloaderAndConverter\YoutubeDownloaderAndConverter\obj\Release\netcoreapp3.1\YoutubeDownloaderAndConverter.csproj.CoreCompileInputs.cache
+C:\Users\SmarTI\source\repos\YoutubeDownloaderAndConverter\YoutubeDownloaderAndConverter\obj\Release\netcoreapp3.1\YoutubeDownloaderAndConverter.csproj.CopyComplete
+C:\Users\SmarTI\source\repos\YoutubeDownloaderAndConverter\YoutubeDownloaderAndConverter\obj\Release\netcoreapp3.1\YoutubeDownloaderAndConverter.dll
+C:\Users\SmarTI\source\repos\YoutubeDownloaderAndConverter\YoutubeDownloaderAndConverter\obj\Release\netcoreapp3.1\YoutubeDownloaderAndConverter.pdb
+C:\Users\SmarTI\source\repos\YoutubeDownloaderAndConverter\YoutubeDownloaderAndConverter\obj\Release\netcoreapp3.1\YoutubeDownloaderAndConverter.genruntimeconfig.cache
